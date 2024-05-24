@@ -12,6 +12,9 @@ Girilen ses dosyalarının 'wav' ses türünde olması gerekmektedir.
 Yanlış bilgi, girilen kelimenin tekrar girilmesi kullancının yapmaması gereken şeylerdir. Bunları kontrol edecek bir mekanizma veya hatayı düzeltecek bir mekanizma yoktur.
 
 Programın çalışması için gerekli olan node modülleri dosyalarda bulunmamaktadır. Terminalden indiriniz.
+(Bu projede react-hot-toast ve mui-x kütüphaneleri kullanılmıştır.)
+(npm install @mui/x-charts)
+(npm install react-hot-toast)
 
 ÖNEMLİ NOT: Ses dosyalarını oynatmada sorunlar çıkabilmektedir. Bunun nedeni ses dosyasının Status Code'nun 206 Partial Content olarak dönmesidir. Bu sunucu kaynaklıdır. Bu kod medyanın parça parça çekildiğini gösterir. Bunun nedeni sunucu yada kullanıcının interneti olabilir.
 
