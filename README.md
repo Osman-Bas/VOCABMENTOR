@@ -5,7 +5,7 @@ Kullanıcı eğer bir kelimeyi bilirse ona en az bir gün sonra türkçesi sorul
 
 Eğer bu adımların herhangi birinde kullanıcı yanlış cevap verirse süreç en başına döner.
 
-Kullanıcıdan her kelime için ingilizcesi, türkçesi, en az 3 tane örnek cümlesi, resmi ve sesli okunuşu girmesi beklenmektedir
+Kullanıcıdan her kelime için ingilizcesi, türkçesi, en az 3 tane örnek cümlesi, resmi ve sesli okunuşu girmesi beklenmektedir.
 
 Girilen ses dosyalarının 'wav' ses türünde olması gerekmektedir.
 
