@@ -11,7 +11,7 @@ Girilen ses dosyalarının 'wav' ses türünde olması gerekmektedir.
 
 Yanlış bilgi, girilen kelimenin tekrar girilmesi kullancının yapmaması gereken şeylerdir. Bunları kontrol edecek bir mekanizma veya hatayı düzeltecek bir mekanizma yoktur.
 
-Programın çalışması için gerekli olan node modülleri dosyalarda bulunmamaktadır. Terminalden indiriniz
+Programın çalışması için gerekli olan node modülleri dosyalarda bulunmamaktadır. Terminalden indiriniz.
 (Bu projede react-hot-toast ve mui-x kütüphaneleri kullanılmıştır.)
 (npm install @mui/x-charts)
 (npm install react-hot-toast)
